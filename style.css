@@ -1,0 +1,18 @@
+.HW9 {
+    text-align: center;
+}
+.task-to-do {
+    background-color: yellow;
+}
+.done {
+    background-color: green;
+}
+li {
+   text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+.inputError {
+    border: red solid 2px;
+    color: red;
+}
